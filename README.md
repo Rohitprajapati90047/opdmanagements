@@ -1,1 +1,2 @@
-# opdmanagements
+# opdmanagement website
+#The OPD Management System is a web-based project developed using HTML, CSS, JavaScript, PHP, and MySQL. It aims to simplify outpatient management in hospitals by reducing paperwork and improving efficiency. Patients can register online, and the system generates a unique E-Card containing their details, which can be previewed or downloaded. Doctors can log in to view patient lists and manage appointments, while the admin panel allows monitoring of all activities, including adding or updating doctors and patient records. This project ensures accuracy, faster data access, and better communication between patients, doctors, and administrators.
